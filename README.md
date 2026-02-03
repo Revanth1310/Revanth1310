@@ -1,4 +1,4 @@
-![Picture](image.jpeg)
+![Picture](image.webp)
 
 <h1 align="center">Hi 👋, I'm Revanth Chandika</h1>
 
