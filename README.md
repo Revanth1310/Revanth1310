@@ -61,7 +61,7 @@ I enjoy taking ideas from **problem → model → system → deployment**.
 ![OpenCV](https://img.shields.io/badge/OpenCV-0F172A?style=for-the-badge&logo=opencv&logoColor=5EEAD4)
 ![NLTK](https://img.shields.io/badge/NLTK-0F172A?style=for-the-badge)
 ![spaCy](https://img.shields.io/badge/spaCy-0F172A?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering%20-8A2BE2)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0F172A?style=for-the-badge)
 
 ---
 
