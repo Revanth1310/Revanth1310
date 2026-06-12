@@ -61,13 +61,13 @@ I enjoy taking ideas from **problem → model → system → deployment**.
 ![OpenCV](https://img.shields.io/badge/OpenCV-0F172A?style=for-the-badge&logo=opencv&logoColor=5EEAD4)
 ![NLTK](https://img.shields.io/badge/NLTK-0F172A?style=for-the-badge)
 ![spaCy](https://img.shields.io/badge/spaCy-0F172A?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering%20-8A2BE2)
 
 ---
 
 ### 🌐 Backend & Deployment
 ![Flask](https://img.shields.io/badge/Flask-0F172A?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0F172A?style=for-the-badge&logo=fastapi&logoColor=00E7A3)
-![Django](https://img.shields.io/badge/Django-0F172A?style=for-the-badge&logo=django&logoColor=22C55E)
 ![REST API](https://img.shields.io/badge/REST%20APIs-0F172A?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT%20Auth-0F172A?style=for-the-badge)
 
@@ -75,8 +75,6 @@ I enjoy taking ideas from **problem → model → system → deployment**.
 
 ### 🗄️ Databases & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=F59E0B)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=38BDF8)
-![Firebase](https://img.shields.io/badge/Firebase-0F172A?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 ![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F97316)
 
 ---
