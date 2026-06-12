@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Revanth Chandika</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&color=4F46E5&center=true&vCenter=true&width=700&lines=AI+and+Machine+Learning+Engineer;Building+Real+World+ML+Systems;Chatbots+|+Prompt Engineering+|+WebDev;Turning+Ideas+into+Impact;SIH2024+Finalist" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&color=4F46E5&center=true&vCenter=true&width=700&lines=AI+and+Machine+Learning+Engineer;Building+Real+World+ML+Systems;Chatbots+|+PromptEngineering+|+WebDev;Turning+Ideas+into+Impact;SIH2024+Finalist" />
 </p>
 
 
